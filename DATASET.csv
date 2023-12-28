@@ -1,0 +1,1074 @@
+Purpose,Type,Size,Size_unit,Listing_type,Bedrooms,Bathrooms,Area_name,Area_marla_size,city_name,Sub_type,Price,Price_cond
+sale,residential,Ten,marla,basic,Five,Five,G-9/3,Two Hundred SeventyTwo,Islamabad,house,61000000,High
+sale,residential,Nine,marla,basic,Five,Five,G-10/2,Two Hundred Fifty,Islamabad,house,68000000,High
+sale,residential,Twelve,marla,basic,Nine,Nine,G-10/2,Two Hundred Fifty,Islamabad,house,100000000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/3,Two Hundred SeventyTwo,Islamabad,house,75000000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,31000000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,29000000,Low
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,29500000,Low
+sale,residential,Ten,marla,basic,Five,Six,G-13/1,Two Hundred SeventyTwo,Islamabad,house,65000000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,29500000,Low
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,29000000,Low
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,29500000,Low
+sale,residential,Ten,marla,basic,Five,Six,G-13/1,Two Hundred SeventyTwo,Islamabad,house,64000000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,30000000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,29500000,Low
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,29500000,Low
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,29000000,Low
+sale,residential,One,kanal,basic,Five,Five,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,90000000,High
+sale,residential,Ten,marla,basic,Five,Five,"Bahria Enclave, Sector A",Two Hundred SeventyTwo,Islamabad,house,47000000,High
+sale,residential,Five,marla,basic,Five,Five,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,37000000,High
+sale,residential,Five,marla,basic,Four,Four,"Bahria Enclave, Sector A",Two Hundred SeventyTwo,Islamabad,house,36500000,High
+sale,residential,Eight,marla,basic,Five,Five,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,28000000,Low
+sale,residential,Ten,marla,basic,Five,Five,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,40000000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/1,Two Hundred SeventyTwo,Islamabad,house,75000000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/1,Two Hundred SeventyTwo,Islamabad,house,76000000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/3,Two Hundred SeventyTwo,Islamabad,house,74500000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/2,Two Hundred SeventyTwo,Islamabad,house,74000000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/1,Two Hundred SeventyTwo,Islamabad,house,75500000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/1,Two Hundred SeventyTwo,Islamabad,house,65000000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,31000000,High
+sale,residential,Two,marla,basic,Two,Two,H-11/1,Two Hundred SeventyTwo,Islamabad,house,24500000,Low
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Six,marla,basic,Four,Four,Jhangi Syedan,Two Hundred SeventyTwo,Islamabad,house,18500000,Low
+sale,residential,Six,marla,basic,Six,Seven,Jhangi Syedan,Two Hundred SeventyTwo,Islamabad,house,13500000,Low
+sale,residential,Six,marla,basic,Four,Four,Jhangi Syedan,Two Hundred SeventyTwo,Islamabad,house,13500000,Low
+sale,residential,Four,marla,basic,Two,Two,Jhangi Syedan,Two Hundred SeventyTwo,Islamabad,house,6800000,Low
+sale,residential,Four,marla,basic,Two,Two,Jhangi Syedan,Two Hundred SeventyTwo,Islamabad,house,7500000,Low
+sale,residential,Four,marla,basic,Two,Three,Jhangi Syedan,Two Hundred SeventyTwo,Islamabad,house,6300000,Low
+sale,residential,Five,marla,basic,Five,Five,Jhangi Syedan,Two Hundred SeventyTwo,Islamabad,house,8500000,Low
+sale,residential,Five,marla,basic,Two,Three,Jhangi Syedan,Two Hundred SeventyTwo,Islamabad,house,8500000,Low
+sale,residential,Ten,marla,basic,Five,Five,DHA Phase 3,Two Hundred TwentyFive,Islamabad,house,36000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Ten,marla,basic,Five,Five,Bahria Town Phase 4,Two Hundred TwentyFive,Islamabad,house,52000000,High
+sale,residential,One,kanal,basic,Five,Five,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,80000000,High
+sale,residential,One,kanal,basic,Five,Five,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,120000000,High
+sale,residential,One,kanal,basic,Five,Five,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,92500000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,One,kanal,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,60000000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Fifteen,marla,basic,Seven,Eight,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,46000000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Eight,marla,basic,Six,Six,F-17,Two Hundred Fifty,Islamabad,house,23500000,Low
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22500000,Low
+sale,residential,One,kanal,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,60000000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22500000,Low
+sale,residential,Ten,marla,basic,Five,Five,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,47000000,High
+sale,residential,Ten,marla,basic,Five,Five,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,53500000,High
+sale,residential,Ten,marla,basic,Five,Six,G-10/1,Two Hundred SeventyTwo,Islamabad,house,81000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-10/1,Two Hundred SeventyTwo,Islamabad,house,58000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-10/1,Two Hundred SeventyTwo,Islamabad,house,52000000,High
+sale,residential,Eight,marla,basic,Four,Five,G-10/3,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-10/3,Two Hundred Fifty,Islamabad,house,55000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Seven,marla,basic,Four,Five,G-10/1,Two Hundred SeventyTwo,Islamabad,house,53000000,High
+sale,residential,Five,marla,basic,Four,Four,G-11/2,Two Hundred Fifty,Islamabad,house,39500000,High
+sale,residential,Sixteen,marla,basic,Six,Eight,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,35000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Seven,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,21500000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,23000000,Low
+sale,residential,Seven,marla,basic,Four,Five,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,23000000,Low
+sale,residential,Ten,marla,basic,Six,Six,National Police Foundation,Two Hundred SeventyTwo,Islamabad,house,26000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Seven,marla,basic,Four,Five,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,23000000,Low
+sale,residential,Six,marla,basic,Four,Four,"Soan Garden, Block C",Two Hundred SeventyTwo,Islamabad,house,26000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden Phase 1,Two Hundred SeventyTwo,Islamabad,house,24500000,Low
+sale,residential,Twelve,marla,basic,Six,Six,PWD,Two Hundred TwentyFive,Islamabad,house,52000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Twelve,marla,basic,Six,Six,PWD,Two Hundred TwentyFive,Islamabad,house,52000000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,20000000,Low
+sale,residential,Ten,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,31000000,High
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden Phase 1,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden Phase 1,Two Hundred SeventyTwo,Islamabad,house,21500000,Low
+sale,residential,Seven,marla,basic,Four,Four,"Soan Garden, Block H",Two Hundred SeventyTwo,Islamabad,house,20000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden Phase 1,Two Hundred SeventyTwo,Islamabad,house,26000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden Phase 1,Two Hundred SeventyTwo,Islamabad,house,23000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden Phase 1,Two Hundred SeventyTwo,Islamabad,house,23000000,Low
+sale,residential,Seven,marla,basic,Four,Five,Jinnah Garden Phase 1,Two Hundred SeventyTwo,Islamabad,house,25000000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Seven,marla,basic,Four,Five,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,22000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Ten,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,31000000,High
+sale,residential,Eight,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,25000000,Low
+sale,residential,One,kanal,basic,Six,Six,"Soan Garden, Block F",Two Hundred SeventyTwo,Islamabad,house,45000000,High
+sale,residential,Six,marla,basic,Four,Four,"Soan Garden, Block C",Two Hundred SeventyTwo,Islamabad,house,23000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,20500000,Low
+sale,residential,Seven,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Seven,marla,basic,Five,Five,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,One,kanal,basic,Six,Six,National Police Foundation,Two Hundred SeventyTwo,Islamabad,house,70000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,21000000,Low
+sale,residential,Seven,marla,basic,Four,Four,CBR Town,Two Hundred SeventyTwo,Islamabad,house,24000000,Low
+sale,residential,Seven,marla,basic,Four,Four,PWD,Two Hundred TwentyFive,Islamabad,house,24000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,21500000,Low
+sale,residential,Seven,marla,basic,Four,Four,CBR Town,Two Hundred SeventyTwo,Islamabad,house,25000000,Low
+sale,residential,Four,marla,basic,Three,Four,G-13/4,Two Hundred SeventyTwo,Islamabad,house,32000000,High
+sale,residential,Twelve,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,42500000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,21500000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Ten,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,34000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Ten,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,34500000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/4,Two Hundred SeventyTwo,Islamabad,house,52500000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/4,Two Hundred SeventyTwo,Islamabad,house,28500000,Low
+sale,residential,Ten,marla,basic,Five,Six,G-13/4,Two Hundred SeventyTwo,Islamabad,house,63000000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/4,Two Hundred SeventyTwo,Islamabad,house,29500000,Low
+sale,residential,Four,marla,basic,Three,Four,G-13/4,Two Hundred SeventyTwo,Islamabad,house,31500000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/4,Two Hundred SeventyTwo,Islamabad,house,29000000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,29000000,Low
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,54000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,53500000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,53500000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,53000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,55000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,52000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,90000000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,80000000,High
+sale,residential,Twelve,marla,basic,Six,Six,I-8/3,Two Hundred SeventyTwo,Islamabad,house,83000000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,21500000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22500000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22500000,Low
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,90000000,High
+sale,residential,Ten,marla,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,47000000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,87500000,High
+sale,residential,Fifteen,marla,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,57000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Fourteen,marla,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,55000000,High
+sale,residential,Five,marla,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,30000000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/4,Two Hundred SeventyTwo,Islamabad,house,64000000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/4,Two Hundred SeventyTwo,Islamabad,house,63000000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/4,Two Hundred SeventyTwo,Islamabad,house,63500000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/3,Two Hundred SeventyTwo,Islamabad,house,74000000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/3,Two Hundred SeventyTwo,Islamabad,house,75000000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/3,Two Hundred SeventyTwo,Islamabad,house,74500000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/3,Two Hundred SeventyTwo,Islamabad,house,75000000,High
+sale,residential,Twelve,marla,basic,Six,Six,"Media Town, Block D",Two Hundred SeventyTwo,Islamabad,house,37000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Twelve,marla,basic,Six,Six,Media Town,Two Hundred SeventyTwo,Islamabad,house,47000000,High
+sale,residential,Twelve,marla,basic,Four,Four,Media Town,Two Hundred SeventyTwo,Islamabad,house,52500000,High
+sale,residential,Twelve,marla,basic,Six,Six,Media Town,Two Hundred SeventyTwo,Islamabad,house,40000000,High
+sale,residential,One,kanal,basic,Six,Six,National Police Foundation,Two Hundred SeventyTwo,Islamabad,house,47000000,High
+sale,residential,Twelve,marla,basic,Six,Six,PWD,Two Hundred TwentyFive,Islamabad,house,52500000,High
+sale,residential,Twelve,marla,basic,Six,Six,"PWD, Block A",Two Hundred SeventyTwo,Islamabad,house,42000000,High
+sale,residential,Twelve,marla,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,55000000,High
+sale,residential,One,kanal,basic,Six,Six,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,71500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Twenty-Four,marla,basic,Seven,Eight,F-15/1,Two Hundred SeventyTwo,Islamabad,house,81000000,High
+sale,residential,Ten,marla,basic,Five,Six,F-15,Two Hundred Fifty,Islamabad,house,45000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-15/1,Two Hundred SeventyTwo,Islamabad,house,39000000,High
+sale,residential,Two Hundred Eighty-Five,sqyd,basic,Five,Six,G-15/4,Two Hundred SeventyTwo,Islamabad,house,46000000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-14/4,Two Hundred SeventyTwo,Islamabad,house,75000000,High
+sale,residential,One,kanal,basic,Eight,Eight,G-14/4,Two Hundred SeventyTwo,Islamabad,house,100000000,High
+sale,residential,Four,marla,basic,Three,Four,G-14/4,Two Hundred SeventyTwo,Islamabad,house,29000000,Low
+sale,residential,Four,marla,basic,Three,Four,G-14/4,Two Hundred SeventyTwo,Islamabad,house,29500000,Low
+sale,residential,Four,marla,basic,Three,Four,G-14/4,Two Hundred SeventyTwo,Islamabad,house,28500000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Three,Four,G-14/4,Two Hundred SeventyTwo,Islamabad,house,29000000,Low
+sale,residential,Two,kanal,basic,Four,Four,F-8/3,Two Hundred SeventyTwo,Islamabad,house,410000000,High
+sale,residential,Two,kanal,basic,Five,Five,F-7/2,Two Hundred SeventyTwo,Islamabad,house,450000000,High
+sale,residential,One,kanal,basic,Four,Four,F-8/1,Two Hundred SeventyTwo,Islamabad,house,220000000,High
+sale,residential,One,kanal,basic,Six,Six,F-8/1,Two Hundred SeventyTwo,Islamabad,house,210000000,High
+sale,residential,One,kanal,basic,Five,Five,F-7/2,Two Hundred SeventyTwo,Islamabad,house,210000000,High
+sale,residential,One,kanal,basic,Six,Six,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,95000000,High
+sale,residential,One,kanal,basic,Six,Six,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,85000000,High
+sale,residential,Seven,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,25500000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,25000000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Six,marla,basic,Two,Two,Korang Town,Two Hundred SeventyTwo,Islamabad,house,16500000,Low
+sale,residential,Twelve,marla,basic,Six,Six,I-8/3,Two Hundred SeventyTwo,Islamabad,house,85000000,High
+sale,residential,Ten,marla,basic,Four,Four,I-8,Two Hundred SeventyTwo,Islamabad,house,70000000,High
+sale,residential,One,kanal,basic,Six,Six,F-8/4,Two Hundred SeventyTwo,Islamabad,house,220000000,High
+sale,residential,One,kanal,basic,Six,Six,F-10,Two Hundred Fifty,Islamabad,house,170000000,High
+sale,residential,Fourteen,marla,basic,Eight,Eight,I-8/4 ,Two Hundred Fifty,Islamabad,house,110000000,High
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,26000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,27500000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,27500000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,26500000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,23000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,24000000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Ten,marla,basic,Five,Seven,PWD,Two Hundred TwentyFive,Islamabad,house,37500000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,25000000,Low
+sale,residential,Ten,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,36000000,High
+sale,residential,Twelve,marla,basic,Six,Six,CBR Town,Two Hundred SeventyTwo,Islamabad,house,48000000,High
+sale,residential,One,kanal,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,60000000,High
+sale,residential,Twelve,marla,basic,Six,Eight,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,48000000,High
+sale,residential,Twelve,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,43000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,85000000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,87500000,High
+sale,residential,One,kanal,basic,Five,Five,"DHA Phase 2, Sector-M",Two Hundred SeventyTwo,Islamabad,house,67500006,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,750000,Low
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,95000000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,92500000,High
+sale,residential,One,kanal,basic,Five,Five,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,90000000,High
+sale,residential,Eight,marla,basic,Four,Four,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,32000000,High
+sale,residential,Ten,marla,basic,Five,Five,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,47500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Ten,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,36000000,High
+sale,residential,Fourteen,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,46000000,High
+sale,residential,Twelve,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,42500000,High
+sale,residential,One,kanal,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,48000000,High
+sale,residential,One,kanal,basic,Three,Three,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,37500000,High
+sale,residential,Six,marla,basic,Four,Four,"Soan Garden, Block D",Two Hundred SeventyTwo,Islamabad,house,24000000,Low
+sale,residential,Fourteen,marla,basic,Six,Six,I-8/2,Two Hundred SeventyTwo,Islamabad,house,110000000,High
+sale,residential,Six Hundred Sixty-Six,sqyd,basic,Six,Six,F-7/3,Two Hundred Fifty,Islamabad,house,230000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,One,kanal,basic,Six,Six,F-7/2,Two Hundred SeventyTwo,Islamabad,house,200000000,High
+sale,residential,Six Hundred,sqyd,basic,Six,Six,I-8/3,Two Hundred SeventyTwo,Islamabad,house,170000000,High
+sale,residential,Six,marla,basic,Five,Five,I-10/2,Two Hundred SeventyTwo,Islamabad,house,31000000,High
+sale,residential,Six,marla,basic,Four,Four,I-10/4,Two Hundred SeventyTwo,Islamabad,house,29000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,26500000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,25500000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,26000000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,26000000,Low
+sale,residential,Seven,marla,basic,Four,Five,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,24000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,24000000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Eight,marla,basic,Six,Six,F-17,Two Hundred Fifty,Islamabad,house,23500000,Low
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,26500000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,24000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,24000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,24500000,Low
+sale,residential,Twelve,marla,basic,Six,Six,Media Town,Two Hundred SeventyTwo,Islamabad,house,48000000,High
+sale,residential,One Thousand Sixty-Six,sqyd,basic,Ten,Ten,F-8/4,Two Hundred SeventyTwo,Islamabad,house,450000000,High
+sale,residential,One,kanal,basic,Six,Six,F-10/2,Two Hundred SeventyTwo,Islamabad,house,160000000,High
+sale,residential,One,kanal,basic,Six,Six,F-8/3,Two Hundred SeventyTwo,Islamabad,house,170000000,High
+sale,residential,Twenty-Two,marla,basic,Seven,Seven,F-10/3,Two Hundred SeventyTwo,Islamabad,house,140000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Eight,marla,basic,Six,Six,F-17,Two Hundred Fifty,Islamabad,house,23500000,Low
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Ten,marla,basic,Four,Four,Bani Gala,Two Hundred SeventyTwo,Islamabad,house,18500000,Low
+sale,residential,Seven,marla,basic,Three,Three,Shahpur,Two Hundred SeventyTwo,Islamabad,house,15000000,Low
+sale,residential,Six,marla,basic,Four,Four,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,20000000,Low
+sale,residential,Five,marla,basic,Two,Two,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,9500000,Low
+sale,residential,Five,marla,basic,Four,Four,Park View City,Two Hundred SeventyTwo,Islamabad,house,25000000,Low
+sale,residential,Ten,marla,basic,Six,Seven,G-13/3,Two Hundred SeventyTwo,Islamabad,house,63000000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,29000000,Low
+sale,residential,Seven,marla,basic,Four,Five,G-15/1,Two Hundred SeventyTwo,Islamabad,house,40000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-15/4,Two Hundred SeventyTwo,Islamabad,house,42000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-15/1,Two Hundred SeventyTwo,Islamabad,house,43500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Seven,marla,basic,Four,Five,G-15/4,Two Hundred SeventyTwo,Islamabad,house,44000000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,31500000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,52000000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,32000000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/2,Two Hundred SeventyTwo,Islamabad,house,30500000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,52500000,High
+sale,residential,Four,marla,basic,Three,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,31000000,High
+sale,residential,Nine,marla,basic,Four,Four,G-6/2,Two Hundred SeventyTwo,Islamabad,house,65000000,High
+sale,residential,Eight,marla,basic,Four,Four,G-6/2,Two Hundred SeventyTwo,Islamabad,house,52000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Six,marla,basic,Four,Four,I-11/4,Two Hundred SeventyTwo,Islamabad,house,40000000,High
+sale,residential,Six,marla,basic,Four,Four,I-11/4,Two Hundred SeventyTwo,Islamabad,house,39000000,High
+sale,residential,Five,marla,basic,Four,Four,I-11/2,Two Hundred SeventyTwo,Islamabad,house,37000000,High
+sale,residential,Seven,marla,basic,Five,Five,I-11/2,Two Hundred SeventyTwo,Islamabad,house,46500000,High
+sale,residential,Five,marla,basic,Four,Four,I-14,Two Hundred Fifty,Islamabad,house,25000000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Ten,marla,basic,Four,Four,Park Enclave,Two Hundred SeventyTwo,Islamabad,house,20000000,Low
+sale,residential,Six Hundred Sixty-Six,sqyd,basic,Six,Six,F-8/4,Two Hundred SeventyTwo,Islamabad,house,230000000,High
+sale,residential,One,kanal,basic,Four,Four,F-8/1,Two Hundred SeventyTwo,Islamabad,house,170000000,High
+sale,residential,One,kanal,basic,Four,Four,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,30000000,High
+sale,residential,Ten,marla,basic,Three,Three,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,18000000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Eight,marla,basic,Six,Six,F-17,Two Hundred Fifty,Islamabad,house,23500000,Low
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Three,marla,basic,Two,Two,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,6000000,Low
+sale,residential,Five,marla,basic,Two,Two,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,7000000,Low
+sale,residential,Five,marla,basic,Two,Two,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,7500000,Low
+sale,residential,Five,marla,basic,Two,Two,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,5500000,Low
+sale,residential,Five,marla,basic,Two,Two,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,6500000,Low
+sale,residential,Five,marla,basic,Three,Three,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,15000000,Low
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,53000000,High
+sale,residential,Ten,marla,basic,Six,Seven,G-13/2,Two Hundred SeventyTwo,Islamabad,house,75000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,54500000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/3,Two Hundred SeventyTwo,Islamabad,house,68500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,54000000,High
+sale,residential,Seven,marla,basic,Four,Five,I-11/2,Two Hundred SeventyTwo,Islamabad,house,42500000,High
+sale,residential,Five,marla,basic,Four,Four,I-14,Two Hundred Fifty,Islamabad,house,21000000,Low
+sale,residential,Five,marla,basic,Four,Five,I-11/2,Two Hundred SeventyTwo,Islamabad,house,35000000,High
+sale,residential,Six,marla,basic,Four,Five,I-11/4,Two Hundred SeventyTwo,Islamabad,house,35000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,23000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,27500000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,25500000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,26000000,Low
+sale,residential,Seven,marla,basic,Four,Four,Jinnah Garden,Two Hundred TwentyFive,Islamabad,house,26500000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Five,marla,basic,Four,Six,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,8500000,Low
+sale,residential,Five,marla,basic,Two,Two,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,6500000,Low
+sale,residential,Nine,marla,basic,Six,Six,Bani Gala,Two Hundred SeventyTwo,Islamabad,house,28500000,Low
+sale,residential,Five,marla,basic,Two,Two,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,13000000,Low
+sale,residential,Ten,marla,basic,Four,Four,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,30000000,High
+sale,residential,Five,marla,basic,Two,Two,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,7000000,Low
+sale,residential,Three,marla,basic,Two,Two,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,6500000,Low
+sale,residential,Twelve,marla,basic,Six,Six,I-8/3,Two Hundred SeventyTwo,Islamabad,house,90000000,High
+sale,residential,One,kanal,basic,Six,Six,I-8/3,Two Hundred SeventyTwo,Islamabad,house,160000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Eight,marla,basic,Four,Five,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,32000000,High
+sale,residential,Five,marla,basic,Four,Four,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,23000000,Low
+sale,residential,Five,marla,basic,Two,Two,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,25000000,Low
+sale,residential,One,kanal,basic,Five,Five,"DHA Phase 2, Sector B",Two Hundred SeventyTwo,Islamabad,house,8500000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,14500000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,15500000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,14800000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,16000000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,16000000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,14800000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,15000000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,17000000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,15800000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,15800000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,17000000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,15400000,Low
+sale,residential,Five,marla,basic,Two,Two,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,7000000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,14500000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,14800000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,16500000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,14500000,Low
+sale,residential,Eight,marla,basic,Three,Three,DHA Homes,Two Hundred SeventyTwo,Islamabad,house,17500000,Low
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,80000000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,85000000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,89000000,High
+sale,residential,Five,marla,basic,Four,Four,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,28000000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,21500000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,One,kanal,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,60000000,High
+sale,residential,One,kanal,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,50000000,High
+sale,residential,Ten,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,36000000,High
+sale,residential,Six,marla,basic,Four,Five,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,23000000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22500000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Ten,marla,basic,Five,Six,G-14/4,Two Hundred SeventyTwo,Islamabad,house,67000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-14/4,Two Hundred SeventyTwo,Islamabad,house,51500000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/1,Two Hundred SeventyTwo,Islamabad,house,67000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/2,Two Hundred SeventyTwo,Islamabad,house,67500000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/2,Two Hundred SeventyTwo,Islamabad,house,68000000,High
+sale,residential,One,kanal,basic,Six,Six,F-8/2,Two Hundred Fifty,Islamabad,house,220000000,High
+sale,residential,Twelve,marla,basic,Six,Six,CBR Town,Two Hundred SeventyTwo,Islamabad,house,52500000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,21500000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Twelve,marla,basic,Six,Seven,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,60000000,High
+sale,residential,Twelve,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,60000000,High
+sale,residential,Twelve,marla,basic,Four,Five,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,58000000,High
+sale,residential,Six Hundred Sixty-Six,sqyd,basic,Five,Five,F-7/2,Two Hundred SeventyTwo,Islamabad,house,280000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Two,kanal,basic,Eight,Eight,F-7/1,Two Hundred TwentySeven,Islamabad,house,460000000,High
+sale,residential,Five,marla,basic,Four,Four,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,16000000,Low
+sale,residential,Five,marla,basic,Two,Two,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,7000000,Low
+sale,residential,Five,marla,basic,Two,Two,Bani Gala,Two Hundred SeventyTwo,Islamabad,house,10000000,Low
+sale,residential,Six Hundred Sixty-Six,sqyd,basic,Four,Five,F-11/2,Two Hundred SeventyTwo,Islamabad,house,155000000,High
+sale,residential,Ten,marla,basic,Six,Six,D-12/2,Two Hundred SeventyTwo,Islamabad,house,100000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Eight,marla,basic,Four,Four,D-12/4,Two Hundred SeventyTwo,Islamabad,house,110000000,High
+sale,residential,One,kanal,basic,Nine,Nine,D-12/2,Two Hundred SeventyTwo,Islamabad,house,180000000,High
+sale,residential,One,kanal,basic,Four,Four,F-7/1,Two Hundred TwentySeven,Islamabad,house,210000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Seven,marla,basic,Four,Four,"Faisal Town, F-18  ",Two Hundred SeventyTwo,Islamabad,house,27500000,Low
+sale,residential,Seven,marla,basic,Four,Four,"Faisal Town, F-18  ",Two Hundred SeventyTwo,Islamabad,house,27500000,Low
+sale,residential,Seven,marla,basic,Four,Four,"Faisal Town, F-18  ",Two Hundred SeventyTwo,Islamabad,house,28000000,Low
+sale,residential,Ten,marla,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,45000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Ten,marla,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,48000000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,85000000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,85000000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,99000000,High
+sale,residential,Ten,marla,basic,Six,Eight,National Police Foundation,Two Hundred SeventyTwo,Islamabad,house,26500000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22500000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Seven,marla,basic,Four,Four,CBR Town,Two Hundred SeventyTwo,Islamabad,house,25000000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,90000000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,85000000,High
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,21500000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,18500000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22500000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,21500000,Low
+sale,residential,Ten,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,36000000,High
+sale,residential,Ten,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,37000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/2,Two Hundred SeventyTwo,Islamabad,house,61000000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/3,Two Hundred SeventyTwo,Islamabad,house,62000000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/1,Two Hundred SeventyTwo,Islamabad,house,59500000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/4,Two Hundred SeventyTwo,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/4,Two Hundred SeventyTwo,Islamabad,house,62000000,High
+sale,residential,Ten,marla,basic,Five,Six,G-13/4,Two Hundred SeventyTwo,Islamabad,house,62000000,High
+sale,residential,Fourteen,marla,basic,Five,Six,G-13/3,Two Hundred SeventyTwo,Islamabad,house,59000000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/4,Two Hundred SeventyTwo,Islamabad,house,73000000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-14/4,Two Hundred SeventyTwo,Islamabad,house,72500000,High
+sale,residential,Four,marla,basic,Six,Seven,G-14/4,Two Hundred SeventyTwo,Islamabad,house,73000000,High
+sale,residential,Seven,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Ten,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Five,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Ten,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Four,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,31000000,High
+sale,residential,Four,marla,basic,Four,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,32000000,High
+sale,residential,Seven,marla,basic,Four,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,31500000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,52000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,51000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,52000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,53000000,High
+sale,residential,Twelve,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,52500000,High
+sale,residential,Fourteen,marla,basic,Six,Six,I-8/1,Two Hundred SeventyTwo,Islamabad,house,85000000,High
+sale,residential,Four,marla,basic,Six,Six,I-8/3,Two Hundred SeventyTwo,Islamabad,house,110000000,High
+sale,residential,Seven,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Ten,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Five,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Ten,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Twelve,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Six,Six,I-8/2,Two Hundred SeventyTwo,Islamabad,house,90000000,High
+sale,residential,Seven,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Ten,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Five,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Ten,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Four,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Four,G-13/2,Two Hundred SeventyTwo,Islamabad,house,29000000,Low
+sale,residential,Four,marla,basic,Four,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,30000000,High
+sale,residential,Four,marla,basic,Four,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,29500000,Low
+sale,residential,Four,marla,basic,Four,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,31000000,High
+sale,residential,Four,marla,basic,Four,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,30500000,High
+sale,residential,Four,marla,basic,Four,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,30000000,High
+sale,residential,Four,marla,basic,Four,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,31500000,High
+sale,residential,Four,marla,basic,Four,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,29500000,Low
+sale,residential,Four,marla,basic,Four,Four,G-13/1,Two Hundred SeventyTwo,Islamabad,house,30000000,High
+sale,residential,Four,marla,basic,Four,Four,G-13/2,Two Hundred SeventyTwo,Islamabad,house,29000000,Low
+sale,residential,Seven,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Ten,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Five,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Ten,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Fourteen,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/4,Two Hundred SeventyTwo,Islamabad,house,73000000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/4,Two Hundred SeventyTwo,Islamabad,house,75000000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/1,Two Hundred SeventyTwo,Islamabad,house,75500000,High
+sale,residential,Fourteen,marla,basic,Six,Seven,G-13/2,Two Hundred SeventyTwo,Islamabad,house,73000000,High
+sale,residential,Ten,marla,basic,Six,Seven,G-13/3,Two Hundred SeventyTwo,Islamabad,house,74500000,High
+sale,residential,Seven,marla,basic,Five,Six,G-13/4,Two Hundred SeventyTwo,Islamabad,house,62000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,50000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,51000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/3,Two Hundred SeventyTwo,Islamabad,house,53000000,High
+sale,residential,Seven,marla,basic,Four,Five,G-13/2,Two Hundred SeventyTwo,Islamabad,house,52500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Two Thousand,sqft,basic,Three,Three,F-10,Two Hundred Fifty,Islamabad,house,35000000,High
+sale,residential,One,kanal,basic,Six,Six,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,90000000,High
+sale,residential,Five,marla,basic,Four,Four,Bhara Kahu,Two Hundred SeventyTwo,Islamabad,house,9000000,Low
+sale,residential,Five,marla,basic,Four,Four,Park View City,Two Hundred SeventyTwo,Islamabad,house,25000000,Low
+sale,residential,Ten,marla,basic,Five,Five,Bani Gala,Two Hundred SeventyTwo,Islamabad,house,28000000,Low
+sale,residential,Five,marla,basic,Four,Four,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,23000000,Low
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,75000000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,85000000,High
+sale,residential,Ten,marla,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,45000000,High
+sale,residential,Six,marla,basic,Four,Five,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,six,marla,basic,Four,Four,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,21000000,Low
+sale,residential,Fourteen,marla,basic,Six,Eight,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,46000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,One,kanal,basic,Five,Five,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,85000000,High
+sale,residential,One,kanal,basic,Four,Four,DHA Phase 2,Two Hundred TwentyFive,Islamabad,house,78500000,High
+sale,residential,Ten,marla,basic,Six,Six,Soan Garden,Two Hundred SeventyTwo,Islamabad,house,36000000,High
+sale,residential,Eleven,marla,basic,Five,Five,Bahria Enclave,Two Hundred SeventyTwo,Islamabad,house,50000000,High
+sale,residential,One,kanal,basic,Six,Six,F-7/2,Two Hundred SeventyTwo,Islamabad,house,190000000,High
+sale,residential,Twenty-four,marla,basic,Eight,Eight,F-7/4,Two Hundred SeventyTwo,Islamabad,house,240000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Twenty-four,marla,basic,Six,Six,F-7/2,Two Hundred SeventyTwo,Islamabad,house,230000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Ten,marla,basic,Four,Four,Park Enclave,Two Hundred SeventyTwo,Islamabad,house,50000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Eight,marla,basic,Six,Six,F-17,Two Hundred Fifty,Islamabad,house,235000,Low
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Eight,marla,basic,Five,Five,Bani Gala,Two Hundred SeventyTwo,Islamabad,house,22000000,Low
+sale,residential,Ten,marla,basic,Three,Three,Bani Gala,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,One,kanal,basic,Seven,Seven,Bani Gala,Two Hundred SeventyTwo,Islamabad,house,38000000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Seven,marla,basic,Four,Five,Gulberg Residencia,Two Hundred SeventyTwo,Islamabad,house,31500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Eight,marla,basic,Six,Six,F-17,Two Hundred Fifty,Islamabad,house,235000,Low
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Eight,marla,basic,Six,Six,F-17,Two Hundred Fifty,Islamabad,house,235000,Low
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Eight,marla,basic,Six,Six,F-17,Two Hundred Fifty,Islamabad,house,235000,Low
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
+sale,residential,Four,marla,basic,Four,Three,F-10/3,Two Hundred SeventyTwo,Islamabad,house,33000000,High
+sale,residential,Seven,marla,basic,Six,Six,G-11/1,Two Hundred Fifty,Islamabad,house,60000000,High
+sale,residential,Ten,marla,basic,Five,Six,Bahria Town Phase 3,Two Hundred TwentyFive,Islamabad,house,39500000,High
+sale,residential,Five,marla,basic,Three,Four,"DHA Phase 5, Sector D",Two Hundred TwentyFive,Islamabad,house,27000000,Low
+sale,residential,Ten,marla,basic,Four,Three,I-10/2,Two Hundred SeventyTwo,Islamabad,house,32500000,High
